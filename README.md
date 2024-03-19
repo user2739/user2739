@@ -36,10 +36,4 @@ Verify at: https://www.datacamp.com/statement-of-accomplishment/course/5c965ce58
 ![DataCamp](2024-02-07_Data_Analyst_Certificate_KarpovCourses.png)
 Verify at: https://lab.karpov.courses/certificate/5cd61cc5-7af3-43a5-97cf-e72a6084a6ad/en/
 
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=user2739&color=blue)
-
-</div>
-
 # My projects :point_down:
