@@ -16,10 +16,10 @@ My name is Oxana (pronounced as Ak-sa-na). I am an aspiring data analyst with a 
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
 
-# Contact me
+# Contact me :incoming_envelope:
 Telegram: @oxanadarmaeva
 
-# Certifications
+# Certifications :chart_with_upwards_trend:
 ![Coursera](2022-07-25_Google_Data_Analytics_Professional_Certificate_Coursera.png)
 Verify at: https://coursera.org/verify/professional-cert/WBCZXXST6AL5
 
@@ -38,3 +38,4 @@ Verify at: https://www.datacamp.com/statement-of-accomplishment/course/5c965ce58
 ![DataCamp](2024-02-07_Data_Analyst_Certificate_KarpovCourses.png)
 Verify at: https://lab.karpov.courses/certificate/5cd61cc5-7af3-43a5-97cf-e72a6084a6ad/en/
 
+# My projects :point_down:
