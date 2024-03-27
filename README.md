@@ -21,7 +21,7 @@ My name is Oxana (pronounced as Ak-sa-na). I am an aspiring data analyst with a 
 * [Email](mailto:oxana.darmaeva@gmail.com)
 
 # Certifications :chart_with_upwards_trend:
-* Coursera. Google Data Analytics Professional Certificate [link](https://coursera.org/verify/professional-cert/WBCZXXST6AL5)
+* Coursera. Google Data Analytics Professional Certificate <a href="https://coursera.org/verify/professional-cert/WBCZXXST6AL5" target="_blank">link</a>
 * DataCamp. Data Analyst with Python [link](https://www.datacamp.com/statement-of-accomplishment/track/3a4f9d690b9dd9b219c8d4166c8f9ad52def9b2a?raw=1)
 * DataCamp. PostgreSQL Summary Stats and Window Functions [link](https://www.datacamp.com/statement-of-accomplishment/course/9779d4c60c9a55d43f3265ab2d47cc2ca459c09b?raw=1)
 * DataCamp. Data Manipulation in SQL [link](https://www.datacamp.com/statement-of-accomplishment/course/5c965ce585b97243d772e2e96c853ebafa6a06c1?raw=1)
