@@ -2,23 +2,23 @@
 My name is Oxana (pronounced as Ak-sa-na). I am an aspiring data analyst with a background in research & economics and a passion for transforming raw data into actionable insights. Proficient in data analysis tools such as Python, SQL, and Tableau. Eager to collaborate on projects that leverage data to drive business decisions and solve complex problems. Check out my GitHub for a glimpse into my data analysis projects and coding skills!
 
 # Languages and tools 🔧
-![Python](https://img.shields.io/badge/-Python-0b0038?style=for-the-badge&logo=python&logoColor=3c78a9)
+![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python&logoColor=Python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
-![Pandas](https://img.shields.io/badge/pandas-0b0038?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-0b0038?style=for-the-badge&logo=numpy&logoColor=4c74cc)
-![SQL](https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL)
+![Pandas](https://img.shields.io/badge/pandas-FFF?style=for-the-badge&logo=pandas&logoColor=e4351d)
+![NumPy](https://img.shields.io/badge/numpy-FFF?style=for-the-badge&logo=numpy&logoColor=4c74cc)
+![SQL](https://img.shields.io/badge/-SQL-FFF?style=for-the-badge&logo=SQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
-![Redash](https://img.shields.io/badge/-Redash-E44D26?style=for-the-badge&logo=Redash)
-![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
+![Redash](https://img.shields.io/badge/-Redash-FFF?style=for-the-badge&logo=Redash)
+![EXCEL](https://img.shields.io/badge/-EXCEL-FFF?style=for-the-badge&logo=EXCEL)
 ![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
-![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0b0038?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
+![API](https://img.shields.io/badge/-API-FFF?style=for-the-badge&logo=API)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-FFF?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
 
 # Contact me :incoming_envelope:
 * [Telegram](https://t.me/oxanadarmaeva)
-* [Email](mailto:oxana.darmaeva@outlook.com)
+* [Email](mailto:oxana.darmaeva@gmail.com)
 
 # Certifications :chart_with_upwards_trend:
 ![Coursera](2022-07-25_Google_Data_Analytics_Professional_Certificate_Coursera.png)
