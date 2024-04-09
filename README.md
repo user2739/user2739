@@ -1,5 +1,5 @@
 # Hi there 👋 
-My name is Oxana (pronounced as Ak-sa-na). I am a data analyst with a background in research & economics and a passion for transforming raw data into actionable insights. Proficient in data analysis tools such as Python, SQL, and Tableau. Eager to collaborate on projects that leverage data to drive business decisions and solve complex problems. Check out my GitHub for a glimpse into my data analysis projects and coding skills!
+My name is Oxana (pronounced as Ak-sa-na). I am a data analyst with a background in research & economics and a passion for transforming raw data into actionable insights. Proficient in data analysis tools such as Python, SQL, Tableau, Redash, and Excel. Eager to collaborate on projects that leverage data to drive business decisions and solve complex problems. Check out my GitHub for a glimpse into my data analysis projects and coding skills!
 
 # Languages and tools 🔧
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python&logoColor=Python)
