@@ -28,3 +28,5 @@ My name is Oxana (pronounced as Ak-sa-na). I am a data analyst with a background
 * Karpov.Courses. Data Analyst Certificate [link](https://lab.karpov.courses/certificate/5cd61cc5-7af3-43a5-97cf-e72a6084a6ad/en/)
 
 # My projects :point_down:
+* [Tableau dashboard project](https://public.tableau.com/views/EmployeeSatisfactionLevelDashboard/Dashboard)
+* [Redash dashboard project](http://redash.lab.karpov.courses/public/dashboards/pMIPYpmP3WvVK5sWeEGWTT6OIvN2UAfNIsktBxpU?org_slug=default)
