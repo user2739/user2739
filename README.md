@@ -10,6 +10,7 @@ My name is Oxana (pronounced as Ak-sa-na). I am a data analyst with a background
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-FFF?style=for-the-badge&logo=PostgreSQL)
 ![Clickhouse](https://img.shields.io/badge/-Clickhouse-FFF?style=for-the-badge&logo=Clickhouse)
 ![Redash](https://img.shields.io/badge/-Redash-FFF?style=for-the-badge&logo=Redash)
+![Tableau](https://img.shields.io/badge/-Tableau-FFF?style=for-the-badge&logo=tableau&logoColor=4c74cc)
 ![EXCEL](https://img.shields.io/badge/-EXCEL-FFF?style=for-the-badge&logo=EXCEL)
 ![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
