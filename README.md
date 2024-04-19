@@ -29,4 +29,4 @@ My name is Oxana (pronounced as Ak-sa-na). I am a data analyst with a background
 
 # My projects :point_down:
 * [Tableau dashboard project](https://public.tableau.com/views/EmployeeSatisfactionLevelDashboard/Dashboard)
-* [Redash dashboard project](http://redash.lab.karpov.courses/public/dashboards/pMIPYpmP3WvVK5sWeEGWTT6OIvN2UAfNIsktBxpU?org_slug=default)
+* [Redash dashboard project](http://redash.lab.karpov.courses/public/dashboards/pMIPYpmP3WvVK5sWeEGWTT6OIvN2UAfNIsktBxpU)
